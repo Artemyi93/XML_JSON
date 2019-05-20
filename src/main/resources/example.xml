@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+<name>IT-Heaven</name>
+<offices>
+    <office floor="1" room="1">
+        <employees>
+            <employee>Maksim</employee>
+            <employee>Ivan</employee>
+            <employee>Oleg</employee>
+        </employees>
+    </office>
+    <office floor="1" room="2">
+        <employees>
+            <employee>Sergey</employee>
+            <employee>Petr</employee>
+            <employee>Alexey</employee>
+        </employees>
+    </office>
+    <office><sub></sub></office>
+</offices>
+</company>
