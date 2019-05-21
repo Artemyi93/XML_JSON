@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<e1>
+    <e2>
+        <e3>
+            <e4>
+                <e5>text</e5>
+            </e4>
+        </e3>
+    </e2>
+    <e6>
+        <e7>
+            <e8>text</e8>
+        </e7>
+    </e6>
+    <e9/>
+</e1>

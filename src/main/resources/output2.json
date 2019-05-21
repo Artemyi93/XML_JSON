@@ -1,37 +1,5 @@
 {
-  "name" : "e1",
+  "name" : "root",
   "text" : null,
-  "children" : [ {
-    "name" : "e2",
-    "text" : null,
-    "children" : [ {
-      "name" : "e3",
-      "text" : null,
-      "children" : [ {
-        "name" : "e4",
-        "text" : null,
-        "children" : [ {
-          "name" : "e5",
-          "text" : "text",
-          "children" : [ ]
-        } ]
-      } ]
-    } ]
-  }, {
-    "name" : "e6",
-    "text" : null,
-    "children" : [ {
-      "name" : "e7",
-      "text" : null,
-      "children" : [ {
-        "name" : "e8",
-        "text" : "text",
-        "children" : [ ]
-      } ]
-    } ]
-  }, {
-    "name" : "e9",
-    "text" : null,
-    "children" : [ ]
-  } ]
+  "children" : [ ]
 }
